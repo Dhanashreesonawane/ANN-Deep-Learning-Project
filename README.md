@@ -109,7 +109,7 @@ The standard Iris dataset can be loaded using Scikit-learn or obtained from the 
 
 ```text
 ANN-Deep-Learning-Project/
-├── ANN_Deep_Learning_Project.ipynb
+├── ANN_DL_Project.ipynb
 └── README.md
 ```
 
